@@ -1,5 +1,5 @@
 import styles from "./Product.module.css";
-import PageNav from "../components/PageNav.jsx";
+import PageNav from "../components/Parent/PageNav.jsx";
 
 export default function Product() {
   return (

@@ -1,6 +1,6 @@
 import style from "./css-modules/CountryList.module.css";
-import Spinner from "../Spinner.jsx";
-import Message from "../Message.jsx";
+import Spinner from "../Reusable/Spinner.jsx";
+import Message from "../Reusable/Message.jsx";
 import CountryItem from "./CountryItem.jsx";
 import { useCities } from "../../context/CitiesContext.jsx";
 

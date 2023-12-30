@@ -1,5 +1,5 @@
-import styles from "./Sidebar.module.css";
-import Logo from "./Logo.jsx";
+import styles from "./css-modules/Sidebar.module.css";
+import Logo from "../Reusable/Logo.jsx";
 import AppNav from "./AppNav.jsx";
 import AppFooter from "./AppFooter.jsx";
 import { Outlet } from "react-router-dom";

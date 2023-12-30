@@ -1,4 +1,4 @@
-import Sidebar from "../components/Sidebar.jsx";
+import Sidebar from "../components/App/Sidebar.jsx";
 import styles from "./AppLayout.module.css";
 import Map from "../components/Map/Map.jsx";
 
