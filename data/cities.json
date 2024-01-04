@@ -1,40 +1,52 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "cityName": "Pekanbaru",
+      "country": "Indonesia",
+      "emoji": "ID",
+      "date": "2024-01-02T15:47:53.107Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "0.5456686781507314",
+        "lng": "101.42212732464264"
       },
-      "id": 17806751
+      "id": 2
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Pekanbaru",
+      "country": "Indonesia",
+      "emoji": "ID",
+      "date": "2024-01-04T07:51:54.592Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "0.5200521411927053",
+        "lng": "101.48668317658782"
       },
-      "id": 98443197
+      "id": 3
+    },
+    {
+      "cityName": "Sipispis",
+      "country": "Indonesia",
+      "emoji": "ID",
+      "date": "2024-01-04T07:52:07.449Z",
+      "notes": "",
+      "position": {
+        "lat": "3.271061765731386",
+        "lng": "99.05175859176714"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Gua Musang",
+      "country": "Malaysia",
+      "emoji": "MY",
+      "date": "2024-01-04T07:52:11.288Z",
+      "notes": "",
+      "position": {
+        "lat": "4.782781269467126",
+        "lng": "101.66599798628734"
+      },
+      "id": 5
     }
   ]
 }

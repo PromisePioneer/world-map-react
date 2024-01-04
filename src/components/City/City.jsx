@@ -20,7 +20,7 @@ function City() {
 
   useEffect(() => {
     getCity(id);
-  }, [id]);
+  }, [id, getCity]);
 
   const { cityName, emoji, date, notes } = currentCity;
 
@@ -31,7 +31,8 @@ function City() {
       <div className={styles.row}>
         <h6>City name</h6>
         <h3>
-          <span>{emoji}</span> {cityName}
+          <img src={`https://flagsapi.com/${emoji}/shiny/64.png`} alt={emoji} />{" "}
+          {cityName}
         </h3>
       </div>
 
